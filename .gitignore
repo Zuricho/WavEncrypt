@@ -1,0 +1,9 @@
+# python related
+__pycache__/
+
+
+# audio files
+*.wav
+
+# the parameters
+wavmark_params/
