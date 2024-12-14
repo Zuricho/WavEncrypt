@@ -19,7 +19,7 @@ conda install ipykernel
 conda install pytorch torchaudio -c pytorch
 conda install tqdm -c conda-forge
 conda install resampy -c conda-forge
-conda install huggingface_hub -c conda-forge
+conda install huggingface_hub -c conda-forge  # this might not needed now
 ```
 
 For wavmark, the paramaters are directly downloaded from HuggingFace: https://huggingface.co/M4869/WavMark
