@@ -3,7 +3,7 @@ __pycache__/
 
 
 # audio files
-*.wav
+# *.wav
 
 # the parameters
 wavmark_params/
