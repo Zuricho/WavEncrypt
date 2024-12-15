@@ -1,5 +1,8 @@
 # WavEncrypt
-Integrate encrypted messages into audio file 
+
+Integrate encrypted messages into audio file.
+
+This is the course project for CUHK EE ELEG 5421 Audio signal processing
 
 
 # Installation
@@ -24,5 +27,7 @@ conda install huggingface_hub -c conda-forge  # this might not needed now
 
 For wavmark, the paramaters are directly downloaded from HuggingFace: https://huggingface.co/M4869/WavMark
 
+# Usage
 
+Follow the steps in `wavencrypt.ipynb`
 
